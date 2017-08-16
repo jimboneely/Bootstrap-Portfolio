@@ -1,0 +1,51 @@
+#main-bio{
+	border:solid;
+	border-width: 2px;
+	border-color: #dddddd;
+	background-color: #ffffff;
+	border-radius: 2em;
+}
+
+.social-media{
+	border:solid;
+	border-width: 2px;
+	border-color: #dddddd;
+	background-color: #ffffff;
+	border-radius: 2em;
+	padding: 10px;
+	display: inline-block;
+
+}
+
+.connect {
+	display: inline-block;
+
+}
+
+.footer{
+	height: 70px;
+	background-color: #666666;
+	color: #ffffff;
+	border-top-color: #4aaaa5;
+    border-top-width: 5px;
+    border-top: solid;
+    height: 100%;
+
+}
+
+h1{
+	color: #ffffff;
+	background-color: #4aaaa5;
+	padding: 10px;
+	width: 250px;
+}
+
+a{
+	color: #777777;
+	font-size: 18px;
+	padding: 0 10px;
+}
+
+nav{
+	margin-top: 30px;
+}
